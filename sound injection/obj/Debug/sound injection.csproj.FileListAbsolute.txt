@@ -1,0 +1,7 @@
+C:\Users\ebola2\source\repos\sound injection\sound injection\bin\Debug\sound injection.exe.config
+C:\Users\ebola2\source\repos\sound injection\sound injection\bin\Debug\sound injection.exe
+C:\Users\ebola2\source\repos\sound injection\sound injection\bin\Debug\sound injection.pdb
+C:\Users\ebola2\source\repos\sound injection\sound injection\obj\Debug\sound injection.csproj.CoreCompileInputs.cache
+C:\Users\ebola2\source\repos\sound injection\sound injection\obj\Debug\sound injection.exe
+C:\Users\ebola2\source\repos\sound injection\sound injection\obj\Debug\sound injection.pdb
+C:\Users\ebola2\source\repos\sound injection\sound injection\obj\Debug\sound injection.csprojAssemblyReference.cache
